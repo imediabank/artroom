@@ -1534,7 +1534,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #767676;
 }
 .cid-qR3PF39Olf button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1759,7 +1759,7 @@ body {
 }
 .cid-qR3PF39Olf .nav-link:hover,
 .cid-qR3PF39Olf .dropdown-item:hover {
-  color: #232323 !important;
+  color: #f7ed4a !important;
 }
 .cid-qR3PZQzpgf {
   background-image: url("../../../assets/images/media-20170719-2000x3556.jpg");
