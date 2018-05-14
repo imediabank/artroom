@@ -1778,6 +1778,110 @@ body {
 .cid-qR3PZQzpgf H1 {
   color: #ffffff;
 }
+.cid-qR3PZQzpgf H3 {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-qR4mU8nb4O {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #073b4c;
+}
+.cid-qR4mU8nb4O .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-qR4mU8nb4O .formoid {
+  margin: auto;
+}
+.cid-qR4mU8nb4O .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-qR4mU8nb4O a.btn {
+  flex: 0 0 auto;
+  -webkit-flex: 0 0 auto;
+}
+.cid-qR4mU8nb4O .input-group-btn {
+  align-self: center;
+  -webkit-align-self: center;
+  z-index: 3;
+}
+.cid-qR4mU8nb4O .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.cid-qR4mU8nb4O a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-qR4mU8nb4O a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qR4mU8nb4O .mbr-subscribe .input-group-btn {
+  display: inline-block;
+}
+.cid-qR4mU8nb4O .mbr-subscribe .input-group-btn button,
+.cid-qR4mU8nb4O .mbr-subscribe .input-group-btn a {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+@media (max-width: 350px) {
+  .cid-qR4mU8nb4O .mbr-subscribe {
+    flex-direction: column;
+    -webkit-flex-direction: column;
+  }
+  .cid-qR4mU8nb4O input[type="email"] {
+    width: 100%;
+    margin-bottom: 2px;
+  }
+  .cid-qR4mU8nb4O .input-group-btn {
+    width: 100%;
+  }
+  .cid-qR4mU8nb4O .input-group-btn .btn {
+    border-radius: 3px;
+  }
+}
+@media (max-width: 768px) {
+  .cid-qR4mU8nb4O .input-group-btn a.btn {
+    width: 100%;
+  }
+  .cid-qR4mU8nb4O .input-group-btn {
+    width: calc(92%);
+  }
+  .cid-qR4mU8nb4O .input-group-btn button[type="submit"] {
+    width: 100%;
+  }
+  .cid-qR4mU8nb4O .input-group {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 300px;
+  }
+  .cid-qR4mU8nb4O .input-group input[type="email"] {
+    width: 100%;
+    margin-bottom: 3px;
+  }
+  .cid-qR4mU8nb4O .input-group span {
+    display: inline;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .cid-qR4mU8nb4O .input-group-btn button,
+  .cid-qR4mU8nb4O .input-group-btn a {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+@media (min-width: 769px) {
+  .cid-qR4mU8nb4O .mbr-subscribe > * {
+    margin: 0 0.5rem;
+  }
+}
+.cid-qR4mU8nb4O H2 {
+  color: #ffffff;
+}
 .cid-qR3ZPXuVUr {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2618,105 +2722,63 @@ body {
 .cid-qR4jFyq9qW .content-slider-wrap {
   width: 75%;
 }
-.cid-qR4mU8nb4O {
+.cid-qS0ibupVOy {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #073b4c;
+  background-color: #efefef;
 }
-.cid-qR4mU8nb4O .mbr-section-subtitle {
+.cid-qS0ibupVOy .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qR4mU8nb4O .formoid {
-  margin: auto;
+.cid-qS0ibupVOy .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
-.cid-qR4mU8nb4O .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+.cid-qS0ibupVOy .mbr-text {
+  color: #767676;
 }
-.cid-qR4mU8nb4O a.btn {
-  flex: 0 0 auto;
-  -webkit-flex: 0 0 auto;
+.cid-qS0ibupVOy .mbr-author-desc {
+  display: block;
+  color: #767676;
 }
-.cid-qR4mU8nb4O .input-group-btn {
-  align-self: center;
-  -webkit-align-self: center;
-  z-index: 3;
+.cid-qS0ibupVOy .mbr-author-name {
+  color: #767676;
 }
-.cid-qR4mU8nb4O .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
+.cid-qS0ibupVOy .mbr-testimonial .panel-item {
+  background-color: #ffffff;
 }
-.cid-qR4mU8nb4O a:not([href]):not([tabindex]) {
-  color: #fff;
+.cid-qS0ibupVOy .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
 }
-.cid-qR4mU8nb4O a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qR4mU8nb4O .mbr-subscribe .input-group-btn {
+.cid-qS0ibupVOy .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
 }
-.cid-qR4mU8nb4O .mbr-subscribe .input-group-btn button,
-.cid-qR4mU8nb4O .mbr-subscribe .input-group-btn a {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+.cid-qS0ibupVOy .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
 }
-@media (max-width: 350px) {
-  .cid-qR4mU8nb4O .mbr-subscribe {
-    flex-direction: column;
-    -webkit-flex-direction: column;
-  }
-  .cid-qR4mU8nb4O input[type="email"] {
-    width: 100%;
-    margin-bottom: 2px;
-  }
-  .cid-qR4mU8nb4O .input-group-btn {
-    width: 100%;
-  }
-  .cid-qR4mU8nb4O .input-group-btn .btn {
-    border-radius: 3px;
-  }
+.cid-qS0ibupVOy .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
 }
-@media (max-width: 768px) {
-  .cid-qR4mU8nb4O .input-group-btn a.btn {
-    width: 100%;
+@media (max-width: 300px) {
+  .cid-qS0ibupVOy .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
   }
-  .cid-qR4mU8nb4O .input-group-btn {
-    width: calc(92%);
-  }
-  .cid-qR4mU8nb4O .input-group-btn button[type="submit"] {
-    width: 100%;
-  }
-  .cid-qR4mU8nb4O .input-group {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    margin: auto;
-    max-width: 300px;
-  }
-  .cid-qR4mU8nb4O .input-group input[type="email"] {
-    width: 100%;
-    margin-bottom: 3px;
-  }
-  .cid-qR4mU8nb4O .input-group span {
-    display: inline;
-    padding-left: 0;
-    padding-right: 0;
-  }
-  .cid-qR4mU8nb4O .input-group-btn button,
-  .cid-qR4mU8nb4O .input-group-btn a {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
-}
-@media (min-width: 769px) {
-  .cid-qR4mU8nb4O .mbr-subscribe > * {
-    margin: 0 0.5rem;
-  }
-}
-.cid-qR4mU8nb4O H2 {
-  color: #ffffff;
 }
 .cid-qR3QEsVEYX {
   padding-top: 30px;
