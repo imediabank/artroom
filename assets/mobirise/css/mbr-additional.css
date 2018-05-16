@@ -1807,6 +1807,30 @@ body {
     text-align: center;
   }
 }
+.cid-qSb9Cp7JCD {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-qSb9Cp7JCD .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qSb9Cp7JCD .section-text {
+  padding: 2rem 0;
+  color: #c1c1c1;
+}
+.cid-qSb9Cp7JCD .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qSb9Cp7JCD .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-qR4mU8nb4O {
   padding-top: 90px;
   padding-bottom: 90px;
