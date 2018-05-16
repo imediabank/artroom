@@ -1787,9 +1787,14 @@ body {
   background-color: #000000;
   background: linear-gradient(45deg, #000000, #c1c1c1);
 }
+.cid-qSaIq5LpYS .media-container-row {
+  flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-qSaIq5LpYS .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
