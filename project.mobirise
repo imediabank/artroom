@@ -2652,7 +2652,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/media-20160824-2-2000x26675.jpg",
+                "image": "@PROJECT_PATH@/assets/images/media-20160824-2-2000x26676.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/media-20160824-2-2000x2667-800x1067.jpg",
                 "alt": "",
                 "title": "",
